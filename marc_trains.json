@@ -1,1064 +1,1064 @@
 [
   {
-    "train_id": "Train 613",
+    "train_id": "613",
     "stops": [
       {
-        "station": "Martin Airport MARC Sb",
+        "station": "Martin Airport",
         "arrival_time": "05:30"
       },
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "05:46"
       }
     ]
   },
   {
-    "train_id": "Train 403",
+    "train_id": "403",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "04:45"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "04:54"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "05:01"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "05:08"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "05:14"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "05:21"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "05:27"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "05:33"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "05:48"
       }
     ]
   },
   {
-    "train_id": "Train 505",
+    "train_id": "505",
     "stops": [
       {
-        "station": "Perryville MARC",
+        "station": "Perryville",
         "arrival_time": "04:25"
       },
       {
-        "station": "Aberdeen MARC Sb",
+        "station": "Aberdeen",
         "arrival_time": "04:33"
       },
       {
-        "station": "Edgewood MARC Sb",
+        "station": "Edgewood",
         "arrival_time": "04:43"
       },
       {
-        "station": "Martin Airport MARC Sb",
+        "station": "Martin Airport",
         "arrival_time": "04:55"
       },
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "05:10"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "05:18"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "05:25"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "05:32"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "05:39"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "05:46"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "05:56"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "06:10"
       }
     ]
   },
   {
-    "train_id": "Train 407",
+    "train_id": "407",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "05:40"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "05:48"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "05:54"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "06:00"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "06:07"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "06:14"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "06:20"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "06:26"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "06:41"
       }
     ]
   },
   {
-    "train_id": "Train 511",
+    "train_id": "511",
     "stops": [
       {
-        "station": "Perryville MARC",
+        "station": "Perryville",
         "arrival_time": "05:15"
       },
       {
-        "station": "Aberdeen MARC Sb",
+        "station": "Aberdeen",
         "arrival_time": "05:23"
       },
       {
-        "station": "Edgewood MARC Sb",
+        "station": "Edgewood",
         "arrival_time": "05:34"
       },
       {
-        "station": "Martin Airport MARC Sb",
+        "station": "Martin Airport",
         "arrival_time": "05:48"
       },
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "06:08"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "06:18"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "06:29"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "06:36"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "06:47"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "07:03"
       }
     ]
   },
   {
-    "train_id": "Train 409",
+    "train_id": "409",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "06:30"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "06:41"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "06:48"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "06:55"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "07:02"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "07:08"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "07:14"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "07:38"
       }
     ]
   },
   {
-    "train_id": "Train 413",
+    "train_id": "413",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "06:45"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "06:53"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "07:00"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "07:07"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "07:14"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "07:21"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "07:27"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "07:33"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "07:48"
       }
     ]
   },
   {
-    "train_id": "Train 415",
+    "train_id": "415",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "07:00"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "07:08"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "07:15"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "07:22"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "07:29"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "07:36"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "07:42"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "07:48"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "08:02"
       }
     ]
   },
   {
-    "train_id": "Train 517",
+    "train_id": "517",
     "stops": [
       {
-        "station": "Perryville MARC",
+        "station": "Perryville",
         "arrival_time": "06:30"
       },
       {
-        "station": "Aberdeen MARC Sb",
+        "station": "Aberdeen",
         "arrival_time": "06:38"
       },
       {
-        "station": "Edgewood MARC Sb",
+        "station": "Edgewood",
         "arrival_time": "06:48"
       },
       {
-        "station": "Martin Airport MARC Sb",
+        "station": "Martin Airport",
         "arrival_time": "07:00"
       },
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "07:20"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "07:28"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "07:35"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "07:42"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "07:49"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "08:00"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "08:19"
       }
     ]
   },
   {
-    "train_id": "Train 419",
+    "train_id": "419",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "07:53"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "08:01"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "08:08"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "08:15"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "08:22"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "08:29"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "08:35"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "08:41"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "08:56"
       }
     ]
   },
   {
-    "train_id": "Train 421",
+    "train_id": "421",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "08:15"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "08:23"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "08:30"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "08:37"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "08:44"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "08:51"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "08:57"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "09:03"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "09:17"
       }
     ]
   },
   {
-    "train_id": "Train 423",
+    "train_id": "423",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "08:55"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "09:03"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "09:10"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "09:17"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "09:24"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "09:31"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "09:37"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "09:41"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "09:58"
       }
     ]
   },
   {
-    "train_id": "Train 525",
+    "train_id": "525",
     "stops": [
       {
-        "station": "Perryville MARC",
+        "station": "Perryville",
         "arrival_time": "08:45"
       },
       {
-        "station": "Aberdeen MARC Sb",
+        "station": "Aberdeen",
         "arrival_time": "08:53"
       },
       {
-        "station": "Edgewood MARC Sb",
+        "station": "Edgewood",
         "arrival_time": "09:02"
       },
       {
-        "station": "Martin Airport MARC Sb",
+        "station": "Martin Airport",
         "arrival_time": "09:15"
       },
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "09:30"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "09:37"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "09:43"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "09:50"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "09:57"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "10:03"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "10:11"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "10:28"
       }
     ]
   },
   {
-    "train_id": "Train 427",
+    "train_id": "427",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "10:25"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "10:32"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "10:38"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "10:45"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "10:52"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "10:58"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "11:04"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "11:08"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "11:25"
       }
     ]
   },
   {
-    "train_id": "Train 429",
+    "train_id": "429",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "11:35"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "11:42"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "11:48"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "11:55"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "12:02"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "12:08"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "12:14"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "12:18"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "12:35"
       }
     ]
   },
   {
-    "train_id": "Train 431",
+    "train_id": "431",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "12:35"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "12:42"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "12:48"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "12:55"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "13:02"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "13:08"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "13:14"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "13:18"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "13:35"
       }
     ]
   },
   {
-    "train_id": "Train 433",
+    "train_id": "433",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "13:35"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "13:42"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "13:48"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "13:55"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "14:02"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "14:08"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "14:16"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "14:31"
       }
     ]
   },
   {
-    "train_id": "Train 435",
+    "train_id": "435",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "14:45"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "14:52"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "14:58"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "15:05"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "15:12"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "15:18"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "15:26"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "15:43"
       }
     ]
   },
   {
-    "train_id": "Train 537",
+    "train_id": "537",
     "stops": [
       {
-        "station": "Perryville MARC",
+        "station": "Perryville",
         "arrival_time": "14:40"
       },
       {
-        "station": "Aberdeen MARC Sb",
+        "station": "Aberdeen",
         "arrival_time": "14:47"
       },
       {
-        "station": "Edgewood MARC Sb",
+        "station": "Edgewood",
         "arrival_time": "14:56"
       },
       {
-        "station": "Martin Airport MARC Sb",
+        "station": "Martin Airport",
         "arrival_time": "15:07"
       },
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "15:30"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "15:44"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "16:04"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "16:22"
       }
     ]
   },
   {
-    "train_id": "Train 439",
+    "train_id": "439",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "15:45"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "15:52"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "15:58"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "16:05"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "16:12"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "16:18"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "16:24"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "16:28"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "16:45"
       }
     ]
   },
   {
-    "train_id": "Train 641",
+    "train_id": "641",
     "stops": [
       {
-        "station": "Martin Airport MARC Sb",
+        "station": "Martin Airport",
         "arrival_time": "15:35"
       },
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "16:08"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "16:23"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "16:30"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "16:36"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "16:44"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "17:01"
       }
     ]
   },
   {
-    "train_id": "Train 443",
+    "train_id": "443",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "16:52"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "17:06"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "17:13"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "17:19"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "17:25"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "17:29"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "17:51"
       }
     ]
   },
   {
-    "train_id": "Train 445",
+    "train_id": "445",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "17:30"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "17:36"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "17:41"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "17:46"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "17:53"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "18:00"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "18:06"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "18:10"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "18:35"
       }
     ]
   },
   {
-    "train_id": "Train 447",
+    "train_id": "447",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "18:10"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "18:24"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "18:43"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "19:00"
       }
     ]
   },
   {
-    "train_id": "Train 579",
+    "train_id": "579",
     "stops": [
       {
-        "station": "Perryville MARC",
+        "station": "Perryville",
         "arrival_time": "18:30"
       },
       {
-        "station": "Aberdeen MARC Sb",
+        "station": "Aberdeen",
         "arrival_time": "18:38"
       },
       {
-        "station": "Edgewood MARC Sb",
+        "station": "Edgewood",
         "arrival_time": "18:48"
       },
       {
-        "station": "Martin Airport MARC Sb",
+        "station": "Martin Airport",
         "arrival_time": "19:00"
       },
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "19:18"
       }
     ]
   },
   {
-    "train_id": "Train 449",
+    "train_id": "449",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "18:40"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "18:54"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "19:01"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "19:07"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "19:19"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "19:33"
       }
     ]
   },
   {
-    "train_id": "Train 451",
+    "train_id": "451",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "19:35"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "19:49"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "19:56"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "20:02"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "20:10"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "20:25"
       }
     ]
   },
   {
-    "train_id": "Train 455",
+    "train_id": "455",
     "stops": [
       {
-        "station": "Penn Station MARC Sb",
+        "station": "Penn Station",
         "arrival_time": "20:45"
       },
       {
-        "station": "West Baltimore MARC Sb",
+        "station": "West Baltimore",
         "arrival_time": "20:53"
       },
       {
-        "station": "Halethorpe MARC Sb",
+        "station": "Halethorpe",
         "arrival_time": "20:59"
       },
       {
-        "station": "BWI Rail Station MARC Sb",
+        "station": "BWI Rail Station",
         "arrival_time": "21:06"
       },
       {
-        "station": "Odenton MARC Sb",
+        "station": "Odenton",
         "arrival_time": "21:13"
       },
       {
-        "station": "Bowie State MARC Sb",
+        "station": "Bowie State",
         "arrival_time": "21:19"
       },
       {
-        "station": "Seabrook MARC Sb",
+        "station": "Seabrook",
         "arrival_time": "21:25"
       },
       {
-        "station": "New Carrollton MARC Sb",
+        "station": "New Carrollton",
         "arrival_time": "21:29"
       },
       {
-        "station": "Union Station MARC Washington",
+        "station": "Union Station Washington",
         "arrival_time": "21:45"
       }
     ]

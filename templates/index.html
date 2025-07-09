@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MARC Train Finder</title>
+</head>
+<body>
+    <h1>MARC Train Arrival Finder</h1>
+
+    <form method="POST">
+        <label for="origin">Origin Station:</label>
+        <select name="origin" required>
+            {% for station in stations %}
+                <option value="{{ station }}">{{ station }}</option>
+            {% endfor %}
+        </select>
+        <br><br>
+
+        <label for="destination">Destination Station:</label>
+        <select name="destination" required>
+            {% for station in stations %}
+                <option value="{{ station }}">{{ station }}</option>
+            {% endfor %}
+        </select>
+        <br><br>
+
+        <label for="arrival_time">Arrival Time:</label>
+        <input type="time" name="arrival_time" required>
+        <br><br>
+
+        <button type="submit">Search</button>
+    </form>
+
+    {% if results %}
+        <h2>Matching Trains:</h2>
+        <ul>
+            {% for train in results %}
+                <li>
+                    Train {{ train.train_id }} arriving at {{ train.arrival_station }} by {{ train.arrival_time }} departing at {{ train.departure_time }} from {{ train.departure_station }}.
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
